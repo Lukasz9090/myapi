@@ -12,8 +12,13 @@ Get data from H2 database by endpoints:
 
 ## Setup
 To run this application, instal it locally:
+```
 cd ../myapi
 mvnw spring-boot:run
+
 or
+
+cd ../myapi
 mvnw clean install
 mvnw -jar target/myapi-0.0.1-SNAPSHOT.jar
+```
