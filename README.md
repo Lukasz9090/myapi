@@ -1,7 +1,7 @@
 # Myapi
 Simple RESTful Api for getting information about users
 
-#Technologies
+## Technologies
 * Java - version 11
 * Spring Boot - version 2.2.2
 
